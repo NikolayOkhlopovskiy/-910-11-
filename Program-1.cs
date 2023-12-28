@@ -11,6 +11,7 @@ namespace CompPract9
     {
         static void Main(string[] args)
         {
+                 //Практическая работа по информатике №9
             // Задача #1
             //Console.Write("Введите целое число: ");
             //int num = int.Parse(Console.ReadLine());
